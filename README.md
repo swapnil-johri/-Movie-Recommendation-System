@@ -1,0 +1,2 @@
+# -Movie-Recommendation-System
+The project is a Content-Based &amp; Collaborative-Filtering based movie recommendation system. It takes  the names of the movies that the user has watched, along with rating he/she has given to it, through a  very interactive UI; as an input. The inputs are then stored dynamically in an excel file. The excel files are  then fed as dynamic inputs for our two algorithms and the final results are then displayed on an interactive  dashboard on PowerBI; as output.
